@@ -181,4 +181,5 @@ depending on image I/O, and correspondingly longer for the 3-seed x
 5-model x (up to 30 epochs with early stopping) full sweep -- budget
 several hours of GPU time for the complete `run_pipeline.sh`, not minutes.
 #   C o n s u m e r - f a k e - r e v i e w - d e t e c t i o n  
+ #   C o n s u m e r - f a k e - r e v i e w - d e t e c t i o n  
  
