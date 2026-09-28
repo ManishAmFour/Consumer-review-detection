@@ -1,0 +1,41 @@
+id,review_text,image_path,label
+s00122,"The food here was amazing, we loved the pasta and the service was great. (sample 122)",img_00122.jpg,0
+s00136,Loud environment but the burgers were juicy and fries were crispy. (sample 136),img_00136.jpg,0
+s00137,"Terrible experience, cold soup and rude waiter, never coming back. (sample 137)",img_00137.jpg,0
+s00154,"As an AI, I cannot personally dine, but this restaurant is reported to have excellent ambiance. (sample 154)",img_00154.jpg,1
+s00153,This establishment offers an exceptional culinary experience with delightful flavors and impeccable service. (sample 153),img_00153.jpg,1
+s00145,"Patrons consistently praise the exquisite decor and the attentive, professional waitstaff. (sample 145)",img_00145.jpg,1
+s00130,"Terrible experience, cold soup and rude waiter, never coming back. (sample 130)",img_00130.jpg,0
+s00141,This establishment offers an exceptional culinary experience with delightful flavors and impeccable service. (sample 141),img_00141.jpg,1
+s00134,"Terrible experience, cold soup and rude waiter, never coming back. (sample 134)",img_00134.jpg,0
+s00155,One might describe the tasting menu as a symphony of flavors dancing on the palate. (sample 155),img_00155.jpg,1
+s00159,One might describe the tasting menu as a symphony of flavors dancing on the palate. (sample 159),img_00159.jpg,1
+s00156,This establishment offers an exceptional culinary experience with delightful flavors and impeccable service. (sample 156),img_00156.jpg,1
+s00160,"The dish presented a harmonious blend of textures, showcasing the chef's mastery of technique. (sample 160)",img_00160.jpg,1
+s00147,"Patrons consistently praise the exquisite decor and the attentive, professional waitstaff. (sample 147)",img_00147.jpg,1
+s00148,"The dish presented a harmonious blend of textures, showcasing the chef's mastery of technique. (sample 148)",img_00148.jpg,1
+s00149,"Patrons consistently praise the exquisite decor and the attentive, professional waitstaff. (sample 149)",img_00149.jpg,1
+s00131,"Nice cozy place, good coffee, will visit again soon with friends. (sample 131)",img_00131.jpg,0
+s00123,"The food here was amazing, we loved the pasta and the service was great. (sample 123)",img_00123.jpg,0
+s00125,The pizza crust was a bit soggy but toppings were fresh and tasty. (sample 125),img_00125.jpg,0
+s00151,One might describe the tasting menu as a symphony of flavors dancing on the palate. (sample 151),img_00151.jpg,1
+s00158,This establishment offers an exceptional culinary experience with delightful flavors and impeccable service. (sample 158),img_00158.jpg,1
+s00128,"The food here was amazing, we loved the pasta and the service was great. (sample 128)",img_00128.jpg,0
+s00150,"As an AI, I cannot personally dine, but this restaurant is reported to have excellent ambiance. (sample 150)",img_00150.jpg,1
+s00146,"Patrons consistently praise the exquisite decor and the attentive, professional waitstaff. (sample 146)",img_00146.jpg,1
+s00135,"Nice cozy place, good coffee, will visit again soon with friends. (sample 135)",img_00135.jpg,0
+s00140,"The food here was amazing, we loved the pasta and the service was great. (sample 140)",img_00140.jpg,0
+s00152,This establishment offers an exceptional culinary experience with delightful flavors and impeccable service. (sample 152),img_00152.jpg,1
+s00129,Loud environment but the burgers were juicy and fries were crispy. (sample 129),img_00129.jpg,0
+s00121,"The food here was amazing, we loved the pasta and the service was great. (sample 121)",img_00121.jpg,0
+s00138,"Terrible experience, cold soup and rude waiter, never coming back. (sample 138)",img_00138.jpg,0
+s00132,"Terrible experience, cold soup and rude waiter, never coming back. (sample 132)",img_00132.jpg,0
+s00139,"Terrible experience, cold soup and rude waiter, never coming back. (sample 139)",img_00139.jpg,0
+s00143,"The dish presented a harmonious blend of textures, showcasing the chef's mastery of technique. (sample 143)",img_00143.jpg,1
+s00126,"Nice cozy place, good coffee, will visit again soon with friends. (sample 126)",img_00126.jpg,0
+s00144,"Patrons consistently praise the exquisite decor and the attentive, professional waitstaff. (sample 144)",img_00144.jpg,1
+s00157,"The dish presented a harmonious blend of textures, showcasing the chef's mastery of technique. (sample 157)",img_00157.jpg,1
+s00127,"The food here was amazing, we loved the pasta and the service was great. (sample 127)",img_00127.jpg,0
+s00142,"The dish presented a harmonious blend of textures, showcasing the chef's mastery of technique. (sample 142)",img_00142.jpg,1
+s00124,The pizza crust was a bit soggy but toppings were fresh and tasty. (sample 124),img_00124.jpg,0
+s00133,"Nice cozy place, good coffee, will visit again soon with friends. (sample 133)",img_00133.jpg,0
